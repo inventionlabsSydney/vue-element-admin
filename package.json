@@ -66,6 +66,7 @@
     "vue-count-to": "1.0.13",
     "vue-router": "3.0.2",
     "vue-splitpane": "1.0.4",
+    "vue-ts-plugin": "^0.1.0",
     "vuedraggable": "2.20.0",
     "vuex": "3.1.0",
     "xlsx": "0.14.1"
@@ -87,6 +88,7 @@
     "connect": "3.6.6",
     "eslint": "5.15.3",
     "eslint-plugin-vue": "5.2.2",
+    "faker": "^4.1.0",
     "html-webpack-plugin": "3.2.0",
     "husky": "1.3.1",
     "lint-staged": "8.1.5",
